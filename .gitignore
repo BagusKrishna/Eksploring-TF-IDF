@@ -26,5 +26,6 @@ env/
 *.xlsx
 
 # Spesific files
-$forcheckingonly.ipynb
+$temp_testing.ipynb
 desktop.ini
+$Cleaned_Text_Asli.csv
