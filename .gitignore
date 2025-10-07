@@ -1,10 +1,12 @@
 # Ignore folder
 image_url/
 **/image_url/
-
+split_data/
 dump_image/
 **/image_url/
 
+image_artifacts/
+tfidf_artifacts/
 # Python cache
 __pycache__/
 *.pyc
@@ -29,3 +31,4 @@ env/
 #$temp_testing.ipynb
 desktop.ini
 $Cleaned_Text_Asli.csv
+split_data/

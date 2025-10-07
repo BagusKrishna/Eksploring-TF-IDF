@@ -1,2 +1,4 @@
-Eksploring TF-IDF (Still in progress of optimization)
-Soon -> Expand to explore Image Extraction using MobileNetV1
+Eksplorasi NLP (TF-IDF) dan Image Processing (MobileNetV1)
+
+clon repo and do 
+pip install -r requirements.txt
