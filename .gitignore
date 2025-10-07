@@ -1,5 +1,8 @@
-# Ignore folder image_url
+# Ignore folder
 image_url/
+**/image_url/
+
+dump_image/
 **/image_url/
 
 # Python cache
@@ -22,3 +25,6 @@ env/
 #*.csv
 *.xlsx
 
+# Spesific files
+$forcheckingonly.ipynb
+desktop.ini

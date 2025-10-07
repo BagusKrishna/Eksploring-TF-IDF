@@ -35,8 +35,6 @@ belumlah
 benarkah
 berada
 berakhirlah
-berapa
-berapalah
 berarti
 berbagai
 beri
@@ -508,7 +506,6 @@ sebagai
 sebaik
 sebaiknya
 sebelumnya
-seberapa
 sebuah
 sebutlah
 sedang
