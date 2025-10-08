@@ -4,9 +4,10 @@ image_url/
 split_data/
 dump_image/
 **/image_url/
-
-image_artifacts/
-tfidf_artifacts/
+_feature_artifacts/
+_image_artifacts/
+_tfidf_artifacts/
+_$label/
 # Python cache
 __pycache__/
 *.pyc
