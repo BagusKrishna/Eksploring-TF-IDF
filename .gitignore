@@ -8,6 +8,7 @@ _feature_artifacts/
 _image_artifacts/
 _tfidf_artifacts/
 _$label/
+_$fused/
 # Python cache
 __pycache__/
 *.pyc
