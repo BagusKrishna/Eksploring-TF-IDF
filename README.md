@@ -5,3 +5,7 @@ MultiModal Process Exploration
 
 clone repo and do 
 pip install -r requirements.txt
+
+note : 
+- ganti dan sesuaikan path tiap ipynb
+- 

@@ -9,6 +9,7 @@ _image_artifacts/
 _tfidf_artifacts/
 _$label/
 _$fused/
+corpus
 # Python cache
 __pycache__/
 *.pyc
@@ -28,6 +29,7 @@ env/
 *.pkl
 #*.csv
 *.xlsx
+*.pdf
 
 # Spesific files
 #$temp_testing.ipynb
