@@ -1,6 +1,11 @@
 # MultiModal Process Exploration
 
-Proyek ini melakukan eksplorasi proses multimodal yang menggabungkan analisis teks (NLP), pemrosesan gambar, dan metadata fitur.
+1. NLP with TF-IDF and GloVe Expansion
+2. Image Extraction with MobileNetV1
+3. Classification Model CNN-BiGRU
+
+Including : 
+- Corpus Crawler (News Site)
 
 ---
 
@@ -19,11 +24,11 @@ Ikuti langkah-langkah berikut untuk menyiapkan lingkungan kerja.
 
 Buka terminal Anda, lalu clone dan masuk ke direktori proyek.
 ```bash
-git clone [https://github.com/URL-ANDA/NAMA-PROYEK.git](https://github.com/URL-ANDA/NAMA-PROYEK.git)
-cd NAMA-PROYEK
+git clone https://github.com/BagusKrishna/Extracting-Feature-Multimodal.git
+cd Extracting-Feature-Multimodal
 ```
 
-### 2a. # Setup environment (for Windows)
+### 2a. Setup environment (for Windows)
 ```bash
 # Create environtment
 python -m venv venv
@@ -33,7 +38,7 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
-### 2b. # Setup environment (for Ubuntu)
+### 2b. Setup environment (for Ubuntu)
 ```bash
 # Create environtment
 python3 -m venv venv
