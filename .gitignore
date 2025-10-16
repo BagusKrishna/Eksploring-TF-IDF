@@ -11,7 +11,11 @@ _$label/
 _$fused/
 corpus
 split_data/
-
+Ipynb_corpus_glove/
+**Ipynb_corpus_glove/
+_cnbc_backup/
+cnbc/
+kompas/
 # Python cache
 __pycache__/
 *.pyc
@@ -38,6 +42,7 @@ env/
 desktop.ini
 $Cleaned_Text_Asli.csv
 
+crawling_cnbc.ipynb
 crawling_cnbc copy.ipynb
 crawling_cnbc copy 2.ipynb
 crawling_cnbc copy 3.ipynb
